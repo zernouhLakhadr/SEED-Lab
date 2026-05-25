@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Security](https://img.shields.io/badge/Category-Network%20Security-red?style=for-the-badge&logo=shield)
-![Status](https://img.shields.io/badge/Labs-5%20Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Labs-4%20Completed-brightgreen?style=for-the-badge)
 ![University](https://img.shields.io/badge/University-Amar%20Telidji-blue?style=for-the-badge)
 
 </div>
@@ -29,7 +29,7 @@ This repository contains my completed **SEED Lab** exercises — a practical cyb
 | 2 | [TCP Attack Lab](./TCP-Attack/) | SYN flood, TCP RST, session hijacking | Scapy, Python, C, Wireshark | ✅ Completed |
 | 3 | [DNS Attack Lab](./DNS-Attack/) | DNS cache poisoning, spoofing, rebinding | Scapy, BIND9, dig, Wireshark | ✅ Completed |
 | 4 | [BGP Attack Lab](./BGP-Attack/) | BGP prefix hijacking, route manipulation | SEED Internet Emulator, BIRD, Wireshark | ✅ Completed |
-| 5 | [Centralized AAA with RADIUS](./RADIUS-Freeradius/) | RADIUS auth, EAP, 802.1X, AAA | FreeRADIUS, radtest, Wireshark, Linux | ✅ Completed |
+
 
 ---
 
@@ -62,12 +62,6 @@ SEEDLabs/
 │   ├── code/
 │   └── screenshots/
 │
-├── RADIUS-Freeradius/            # Centralized AAA with FreeRADIUS
-│   ├── README.md
-│   ├── lab-instructions.pdf
-│   ├── code/
-│   └── screenshots/
-│
 └── README.md                     # This file
 ```
 
@@ -91,7 +85,6 @@ All labs were executed in virtualized or containerized environments:
 | **Packet Analysis** | Wireshark, tcpdump |
 | **Packet Crafting** | Scapy (Python 3) |
 | **DNS / Routing** | BIND9, BIRD Internet Routing Daemon |
-| **AAA / Auth** | FreeRADIUS, EAP, 802.1X |
 | **Web / PKI** | Apache2, OpenSSL, curl |
 | **Development** | Python 3, C, Bash |
 
