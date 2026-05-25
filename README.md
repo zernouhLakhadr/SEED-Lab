@@ -42,25 +42,25 @@ SEEDLabs/
 │   ├── README.md                 # Lab writeup and findings
 │   ├── lab-instructions.pdf      # Original SEED Lab manual
 │   ├── code/                     # Attack scripts (Scapy/Python)
-│   └── screenshots/              # Wireshark captures, terminal output
+│   └── report.pdf              # the report that anwer the seedlab instructeur
 │
 ├── TCP-Attack/                   # SYN flood, RST attack, session hijack
 │   ├── README.md
 │   ├── lab-instructions.pdf
 │   ├── code/
-│   └── screenshots/
+│   └── report.pdf
 │
 ├── DNS-Attack/                   # DNS cache poisoning & spoofing
 │   ├── README.md
 │   ├── lab-instructions.pdf
 │   ├── code/
-│   └── screenshots/
+│   └── report.pdf
 │
 ├── BGP-Attack/                   # BGP prefix hijacking & route manipulation
 │   ├── README.md
 │   ├── lab-instructions.pdf
 │   ├── code/
-│   └── screenshots/
+│   └── report.pdf
 │
 └── README.md                     # This file
 ```
