@@ -40,26 +40,22 @@ SEEDLabs/
 │
 ├── ARP-Cache-Poisoning/          # ARP spoofing + HTTPS MITM attack
 │   ├── README.md                 # Lab writeup and findings
-│   ├── lab-instructions.pdf      # Original SEED Lab manual
-│   ├── code/                     # Attack scripts (Scapy/Python)
+│   ├── lab-instructions.pdf      # Original SEED Lab manual                
 │   └── report.pdf              # the report that anwer the seedlab instructeur
 │
 ├── TCP-Attack/                   # SYN flood, RST attack, session hijack
 │   ├── README.md
 │   ├── lab-instructions.pdf
-│   ├── code/
 │   └── report.pdf
 │
 ├── DNS-Attack/                   # DNS cache poisoning & spoofing
 │   ├── README.md
 │   ├── lab-instructions.pdf
-│   ├── code/
 │   └── report.pdf
 │
 ├── BGP-Attack/                   # BGP prefix hijacking & route manipulation
 │   ├── README.md
 │   ├── lab-instructions.pdf
-│   ├── code/
 │   └── report.pdf
 │
 └── README.md                     # This file
