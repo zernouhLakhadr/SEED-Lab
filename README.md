@@ -99,7 +99,7 @@ For original lab materials and documentation, visit: **https://seedsecuritylabs.
 **Zernouh Lakhdar** — Cyber Security Engineering Student
 
 [![GitHub](https://img.shields.io/badge/GitHub-zernouh--lakhdar-181717?style=flat-square&logo=github)](https://github.com/zernouhLakhadr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zernouh--lakhdar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zernouh-lakhdar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zernouh--lakhdar-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aymen-zernouh-1b690925b)
 
 ---
 
