@@ -27,7 +27,7 @@ This repository contains my completed **SEED Lab** exercises — a practical cyb
 |---|----------|-------|------------|--------|
 | 1 | [ARP Cache Poisoning Attack Lab](./ARP-Cache-Poisoning/) | ARP spoofing, MITM, HTTPS interception | Scapy, Wireshark, OpenSSL, Apache | ✅ Completed |
 | 2 | [TCP Attack Lab](./TCP-Attack/) | SYN flood, TCP RST, session hijacking | Scapy, Python, C, Wireshark | ✅ Completed |
-| 3 | [DNS Attack Lab](./DNS-Attack/) | DNS cache poisoning, spoofing, rebinding | Scapy, BIND9, dig, Wireshark | ✅ Completed |
+| 3 | [Mitnick_Attack](./DNS-Attack/) | DNS cache poisoning, spoofing, rebinding | Scapy, BIND9, dig, Wireshark | ✅ Completed |
 | 4 | [BGP Attack Lab](./BGP-Attack/) | BGP prefix hijacking, route manipulation | SEED Internet Emulator, BIRD, Wireshark | ✅ Completed |
 
 
