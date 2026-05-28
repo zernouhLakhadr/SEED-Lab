@@ -48,7 +48,7 @@ SEEDLabs/
 │   ├── lab-instructions.pdf
 │   └── report.pdf
 │
-├── DNS-Attack/                   # DNS cache poisoning & spoofing
+├── Mitnick_Attack/                   # DNS cache poisoning & spoofing
 │   ├── README.md
 │   ├── lab-instructions.pdf
 │   └── report.pdf
